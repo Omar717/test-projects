@@ -1,4 +1,4 @@
-# test-projects
+# mathematical modelling Euler algorithms
 import time
 #define initial conditions for spring-mass damper system
 x0 = 1.0
