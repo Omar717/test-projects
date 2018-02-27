@@ -1,6 +1,5 @@
 # test-projects
 import time
-import math as mt
 #define initial conditions for spring-mass damper system
 x0 = 1.0
 t0 = 0.0
